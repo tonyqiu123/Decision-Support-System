@@ -1,7 +1,7 @@
 # Decision-Support-System
-My final group submissions for the MSCI100 course
+<p>My final group submissions for the MSCI100 course</p>
 
-Steps
+<h4>Downloading Steps</h4>
 
 1. Download the excel file in the repo
 2. Enable editing
