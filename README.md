@@ -1,7 +1,7 @@
 # Decision-Support-System
 <h2>Downloading Steps</h2>
 
-<p>1. Download the excel file in the repo</p>
+<p>1. Download the excel file in the repo ("MSCI 100")</p>
 <p>2. Enable editing</p>
 <p>3. Done</p>
 
