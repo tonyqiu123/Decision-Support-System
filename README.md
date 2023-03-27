@@ -13,3 +13,9 @@
 <p>3. In the "General" tab, enable "Unblock"</p>
 <img src="https://cdn.discordapp.com/attachments/715319623637270638/1069460920629219379/image.png"/>
 <p>4. Click "OK"</p>
+
+
+<h1>Result</h1>
+<img src="https://cdn.discordapp.com/attachments/715319623637270638/1090008487389565019/image.png"/>
+<img src="[https://cdn.discordapp.com/attachments/715319623637270638/1090008487389565019/image.png](https://cdn.discordapp.com/attachments/715319623637270638/1090008593014735039/image.png)"/>
+<img src="[https://cdn.discordapp.com/attachments/715319623637270638/1090008487389565019/image.png](https://cdn.discordapp.com/attachments/715319623637270638/1090008838436048976/image.png)"/>
