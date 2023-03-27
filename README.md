@@ -17,5 +17,5 @@
 
 <h1>Result</h1>
 <img src="https://cdn.discordapp.com/attachments/715319623637270638/1090008487389565019/image.png"/>
-<img src="[https://cdn.discordapp.com/attachments/715319623637270638/1090008487389565019/image.png](https://cdn.discordapp.com/attachments/715319623637270638/1090008593014735039/image.png)"/>
-<img src="[https://cdn.discordapp.com/attachments/715319623637270638/1090008487389565019/image.png](https://cdn.discordapp.com/attachments/715319623637270638/1090008838436048976/image.png)"/>
+<img src="https://cdn.discordapp.com/attachments/715319623637270638/1090008593014735039/image.png"/>
+<img src="https://cdn.discordapp.com/attachments/715319623637270638/1090008838436048976/image.png"/>
